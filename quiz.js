@@ -1,4 +1,4 @@
-alert("put in your score in the comment box")
+alert("welcome brother and sister")
  
    //Questions array
            // creating an array and passing the number, questions, options, and answers
